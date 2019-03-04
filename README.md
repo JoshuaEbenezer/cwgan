@@ -1,4 +1,4 @@
-# CQGAN
+# CWGAN
 Conditional Wasserstein Generative Adversarial Network for image-to-image translation.
 
 The arxiv link for this paper is: https://arxiv.org/abs/1903.00395 (it's been submitted to EUSIPCO 2019). Please cite the arxiv link if you use this work.
