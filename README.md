@@ -3,7 +3,9 @@ Conditional Wasserstein Generative Adversarial Network for image-to-image transl
 
 Implementation of the paper: Single Image Haze Removal Using Conditional Wasserstein Generative Adversarial Networks.
 
-The arxiv link for this paper is: https://arxiv.org/abs/1903.00395 (it's been submitted to EUSIPCO 2019). Please cite the arxiv link if you use this work.
+The arxiv link for this paper is: https://arxiv.org/abs/1903.00395. Please cite the arxiv link if you use this work.
+
+Update: This work has been accepted for presentation at EUSIPCO 2019. The full citation to the conference proceedings will be provided soon.
 
 ## Training a model
 
