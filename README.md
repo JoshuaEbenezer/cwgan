@@ -9,7 +9,7 @@ Single Image Haze Removal Using Conditional Wasserstein Generative Adversarial N
 J.P. Ebenezer, B. Das, S. Mukhopadhyay
 2019 27th European Signal Processing Conference (EUSIPCO), 1-5
 
-
+Arxiv link: https://arxiv.org/pdf/1903.00395.pdf
 ## Training a model
 
 1. Clone/download the repo
